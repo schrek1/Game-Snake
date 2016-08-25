@@ -5,6 +5,6 @@ created  first half of 2015
 
 ![alt tag](https://github.com/schrek1/Hra-had/blob/master/pic1.png?raw=true)
 
-![alt tag](https://github.com/schrek1/Hra-had/edit/master/pic2.png)
+![alt tag](https://github.com/schrek1/Hra-had/blob/master/pic2.png?raw=true)
 
-![alt tag](https://github.com/schrek1/Hra-had/edit/master/pic3.png)
+![alt tag](https://github.com/schrek1/Hra-had/blob/master/pic3.png?raw=true)
